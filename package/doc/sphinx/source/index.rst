@@ -61,8 +61,8 @@ members agree and adhere to --- please read it.
 User Guide
 ==========
 
-The MDAnalysis `User Guide`_ provides comprehensive information on how to
-use the library. We would recommend that new users have a look at the
+The MDAnalysis `User Guide`_ provides comprehensive information on how to `install <https://userguide.mdanalysis.org/stable/installation.html>`_
+and use the library. We would recommend that new users have a look at the
 `Quick Start Guide`_. The User Guide also has a set of `examples`_ on how to
 use the MDAnalysis library which may be of interest.
 
@@ -72,69 +72,6 @@ use the MDAnalysis library which may be of interest.
 
 
 .. _installation-instructions:
-
-Installing MDAnalysis
-=====================
-
-The easiest approach to `install the latest release`_ is to use a package that
-can be installed either with conda_ or pip_.
-
-conda
------
-
-First installation with conda_:
-
-.. code-block:: bash
-
-   conda config --add channels conda-forge
-   conda install mdanalysis
-
-which will automatically install a *full set of dependencies*.
-
-To upgrade later:
-
-.. code-block:: bash
-
-   conda update mdanalysis
-
-pip
----
-
-Installation with `pip`_ and a *minimal set of dependencies*:
-
-.. code-block:: bash
-
-   pip install --upgrade MDAnalysis
-
-To install with a *full set of dependencies* (which includes everything needed
-for :mod:`MDAnalysis.analysis`), add the ``[analysis]`` tag:
-
-.. code-block:: bash
-
-   pip install --upgrade MDAnalysis[analysis]
-
-
-Tests
------
-
-If you want to `run the tests`_ or use example files to follow some of the
-examples in the documentation or the tutorials_, also install the
-``MDAnalysisTests`` package:
-
-.. code-block:: bash
-
-   conda install mdanalysistests            # with conda
-   pip install --upgrade MDAnalysisTests    # with pip
-
-.. _install the latest release:
-   https://userguide.mdanalysis.org/stable/installation.html#installation
-.. _pip:
-   http://www.pip-installer.org/en/latest/index.html
-.. _conda:
-   http://conda.pydata.org/docs/
-.. _run the tests: https://github.com/MDAnalysis/mdanalysis/wiki/UnitTests
-.. _tutorials: https://www.mdanalysis.org/pages/learning_MDAnalysis/
-
 
 Source Code
 ===========
@@ -185,7 +122,7 @@ Thank you!
 .. toctree::
    :maxdepth: 4
    :caption: Documentation
-   :numbered:		
+   :numbered:     
    :hidden:
 
    ./documentation_pages/overview
@@ -214,3 +151,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
