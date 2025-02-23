@@ -96,7 +96,7 @@ strings for writing lines in ``.gro`` files.  These are as follows:
 
 
 .. _Gromacs: http://www.gromacs.org
-.. _GRO: http://manual.gromacs.org/current/online/gro.html
+.. _GRO: https://manual.gromacs.org/2024.0/reference-manual/file-formats.html#gro
 .. _GRO format: http://chembytes.wikidot.com/g-grofile
 
 """

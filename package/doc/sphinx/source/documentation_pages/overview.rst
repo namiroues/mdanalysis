@@ -38,7 +38,7 @@ of a protein and the radius of gyration of the backbone atoms are calculated::
         print(f"frame = {ts.frame}: d = {d} Angstroem, Rgyr = {rgyr} Angstroem")
 
 
-.. _NumPy:   http://numpy.scipy.org
+.. _NumPy:   https://numpy.org/
 .. _CHARMM:  http://www.charmm.org/
 .. _LAMMPS:  http://lammps.sandia.gov/
 .. _NAMD:    http://www.ks.uiuc.edu/Research/namd/
@@ -197,8 +197,7 @@ and more.
 .. Links to the stable git repository:
 
 .. _examples:
-   https://github.com/MDAnalysis/MDAnalysisCookbook/tree/master/examples/
-
+   https://github.com/MDAnalysis/MDAnalysisCookbook/tree/master/examples/  
 .. _`rmsfit_qcp.py`:
    https://github.com/MDAnalysis/MDAnalysisCookbook/blob/master/examples/rmsfit_qcp.py
 .. _`blocks.py`:
