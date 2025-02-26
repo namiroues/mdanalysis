@@ -58,8 +58,8 @@ members agree and adhere to --- please read it.
 
 
 
-User Guide
-==========
+Installing and Using MDAnalysis
+===============================
 
 The MDAnalysis `User Guide`_ provides comprehensive information on how to `install <https://userguide.mdanalysis.org/stable/installation.html>`_
 and use the library. We would recommend that new users have a look at the
