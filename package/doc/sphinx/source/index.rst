@@ -74,7 +74,7 @@ use the MDAnalysis library which may be of interest.
 Source code
 ===========
 
-The MDAnalysis source code is available on [GitHub](https://github.com/MDAnalysis/mdanalysis/) and is 
+The MDAnalysis source code is available on https://github.com/MDAnalysis/mdanalysis/ and is 
 distributed under the `Lesser GNU Public Licence, version 3 or any later version`_. Individual components
 of the source code are provided under LGPL compatible licenses, details can be
 found in the `MDAnalysis license file`_. Obtain the sources with `git`_.
