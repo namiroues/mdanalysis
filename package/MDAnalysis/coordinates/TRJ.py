@@ -118,7 +118,7 @@ AMBER ASCII trajectories are recognised by the suffix '.trj',
 .. _AMBER TRJ format: https://ambermd.org/FileFormats.php#trajectory
 ..    The formats page was archived as
 ..    http://www.webcitation.org/query?url=http%3A%2F%2Fambermd.org%2Fformats.html&date=2018-02-11
-..    Use the archived version if the original (http://ambermd.org/formats.html#trajectory) disappears. [orbeckst]
+..    Use the archived version if the original (https://ambermd.org/FileFormats.php#trajectory) disappears. [orbeckst]
 .. _AMBER netcdf format: http://ambermd.org/netcdf/nctraj.xhtml
 ..    The formats page was archived as
 ..    http://www.webcitation.org/query?url=http%3A%2F%2Fambermd.org%2Fnetcdf%2Fnctraj.xhtml&date=2018-02-11
