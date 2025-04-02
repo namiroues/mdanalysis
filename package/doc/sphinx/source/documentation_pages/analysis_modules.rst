@@ -25,9 +25,9 @@ Getting started with analysis
 Most analysis tools are implemented as single classes and follow this usage pattern:
 
 #. Import the module (e.g., :mod:`MDAnalysis.analysis.rms`).
-#. Initialize the analysis class with required arguments.
-#. Run the analysis with :meth:`~MDAnalysis.analysis.base.AnalysisBase.run` method.
-#. Access results via the  :attr:`~MDAnalysis.analysis.base.AnalysisBase.results` attribute.
+#. Initialize the analysis class with the required arguments.
+#. Run the analysis with :meth:`~MDAnalysis.analysis.base.AnalysisBase.run`.
+#. Access results via the :attr:`~MDAnalysis.analysis.base.AnalysisBase.results` attribute.
 
 .. code-block:: python
 
